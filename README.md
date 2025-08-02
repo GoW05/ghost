@@ -52,13 +52,13 @@ JavaScript (script.js): The core functionality of the quiz is managed by a singl
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](<img width="1889" height="910" alt="first" src="https://github.com/user-attachments/assets/5fd320a3-8b11-4aa9-8f87-7fb869766259" />)
+![Screenshot1]<img width="1889" height="910" alt="first" src="https://github.com/user-attachments/assets/5fd320a3-8b11-4aa9-8f87-7fb869766259" />
 *The first image shows the four questioms of the quiz*
 
-![Screenshot2](<img width="1872" height="802" alt="middle" src="https://github.com/user-attachments/assets/5d0997ce-2685-44b2-a963-7a89fb543902" />)
+![Screenshot2]<img width="1872" height="802" alt="middle" src="https://github.com/user-attachments/assets/5d0997ce-2685-44b2-a963-7a89fb543902" />
 *The second image shows the remaining 2 questions*
 
-![Screenshot3](<img width="1914" height="906" alt="last" src="https://github.com/user-attachments/assets/be94f8fb-4a5e-4448-bbe9-81dccc3519b5" />)
+![Screenshot3]<img width="1914" height="906" alt="last" src="https://github.com/user-attachments/assets/be94f8fb-4a5e-4448-bbe9-81dccc3519b5" />
 *The third image shows the last output*
 
 # Diagrams
