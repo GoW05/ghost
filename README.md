@@ -1,33 +1,32 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Boo-Boo] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Glitch Mafia]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Poorna prakash] - [LBSITW]
+- Member 2: [A J Gowri] - [LBSITW]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Boo-boo is a web-based quiz that determines if a user is a ghost. The app provides a single-page experience, dynamically displaying results and playing spooky sounds based on the user's answers. It's built with HTML5, CSS3, and JavaScript for a responsive and interactive design. ]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[The project solves the absurdly pressing issue of spectral identity crisis. It helps individuals determine if they are simply cold or if they've genuinely transitioned into a ghost, allowing them to proceed with their haunting duties with newfound clarity.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+["Boo-boo" is a fun online quiz that asks you spooky questions to find out if you're a ghost. When you finish, it instantly shows you your result with eerie sounds and visuals.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- [HTML,CSS,JavaScript]
+- [Framework Used]
+- [Libraries Used]
 - [Tools used]
 
 For Hardware:
@@ -37,6 +36,12 @@ For Hardware:
 
 ### Implementation
 For Software:
+
+HTML5 (index.html): The quiz's structure is defined in a single HTML file. It includes the quiz form with all the questions and radio button options. It also contains separate div elements for the quiz container and the result display, which are dynamically shown or hidden by JavaScript. The file also links the CSS stylesheet and the JavaScript logic.
+
+CSS3 (style.css): The styling is handled by a separate CSS file. It defines the visual theme, including the dark background, red accents, and custom fonts (Creepster, Inter). Key to the implementation are the CSS animations for visual flair and the responsive design rules that ensure the layout adapts to different screen sizes. A special class is used to apply a grayscale filter to the body for the ghostly results page.
+
+JavaScript (script.js): The core functionality of the quiz is managed by a single JavaScript file. This script listens for the form submission and "Try Again" button clicks. When the form is submitted, it collects the user's answers and regardless of the answers it displays you are a ghost result page and try again button which resets the quiz. It also handles the dynamic playback and stopping of the spooky audio to create a complete, interactive experience.
 # Installation
 [commands]
 

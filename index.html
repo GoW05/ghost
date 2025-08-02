@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Am I a Ghost?</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Creepster&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-900 text-white font-inter" background="horror.jpg">
+    <div class="ghost-emoji">👻</div>
+
+    <!-- The main quiz container. This will be hidden when the results are shown. -->
+    <div id="quiz-container" class="quiz-container">
+        <h1 class="quiz-title">Am I a Ghost?</h1>
+        <form id="ghost-form">
+            <!-- Question 1 -->
+            <div class="question-group">
+                <p>1. Do you feel cold even when it’s hot?</p>
+                <label><input type="radio" name="q1" value="yes"> Yes, like a haunted popsicle.</label>
+                <label><input type="radio" name="q1" value="no"> No, I melt like ice cream in April.</label>
+                <label><input type="radio" name="q1" value="maybe"> I think I *am* the draft.</label>
+            </div>
+
+            <!-- Question 2 -->
+            <div class="question-group">
+                <p>2. Have you ever walked through a wall (in your dreams)?</p>
+                <label><input type="radio" name="q2" value="yes"> Totally. I phased through like a legend.</label>
+                <label><input type="radio" name="q2" value="no"> Nope, walls and I still have boundaries.</label>
+                <label><input type="radio" name="q2" value="unsure"> Can’t say, I woke up mid-wall.</label>
+            </div>
+
+            <!-- Question 3 -->
+            <div class="question-group">
+                <p>3. Does your reflection ever blink at you first?</p>
+                <label><input type="radio" name="q3" value="yes"> Yes, and we’ve made it weird now.</label>
+                <label><input type="radio" name="q3" value="no"> No, but I blink like it owes me money.</label>
+                <label><input type="radio" name="q3" value="wait"> Wait… I *have* a reflection?</label>
+            </div>
+
+            <!-- Question 4 -->
+            <div class="question-group">
+                <p>4. When you try to open doors, do your hands go through the handle?</p>
+                <label><input type="radio" name="q4" value="yes"> Yes. Every time.</label>
+                <label><input type="radio" name="q4" value="no"> No, but I wish they would.</label>
+                <label><input type="radio" name="q4" value="old"> Haven’t tried since 1886.</label>
+            </div>
+
+            <!-- Question 5 -->
+            <div class="question-group">
+                <p>5. Do you say “boo” and people don’t even flinch?</p>
+                <label><input type="radio" name="q5" value="yes"> Yes. Sad ghost noises.</label>
+                <label><input type="radio" name="q5" value="blocked"> No, they block me.</label>
+                <label><input type="radio" name="q5" value="boohoo"> I only say “boo-hoo.”</label>
+            </div>
+
+            <!-- Question 6 -->
+            <div class="question-group">
+                <p>6. Do lights flicker when you’re emotional?</p>
+                <label><input type="radio" name="q6" value="yes"> Yes, it’s my aesthetic.</label>
+                <label><input type="radio" name="q6" value="exam"> Only during exams.</label>
+                <label><input type="radio" name="q6" value="normal"> I thought that was normal?</label>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="submit-btn">Submit</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- The result container, initially hidden. -->
+    <div id="result-container" class="result-container hidden">
+        <h2 class="result-title">💀 You are a ghost! 💀</h2>
+        <center>
+        <button id="try-again-btn" class="try-again-btn">👻 Try Again</button>
+        </center>
+    </div>
+</div>
+    <script src="script.js"></script>
+</body>
+</html>
