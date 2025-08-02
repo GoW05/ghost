@@ -87,7 +87,7 @@ For Hardware:
 ### Project Demo
 # Video
 [(https://github.com/user-attachments/assets/b8fe2d35-c00d-4df5-900b-9092a5b84116)]
-*The videp demonstrates the working of the website.First we are filling all the fields and submit it, we are redirected to output "You are a ghost" where our 1st song sppoky1 will played, Next we wii try again and when reaching You are a ghost,the second song will be played.We will try again for the third time and the third song will be played. *
+*The video demonstrates the working of the website.First we are filling all the fields and submit it, we are redirected to output "You are a ghost" where our 1st song spooky1 will played, Next we will try again and when reaching "You are a ghost",the second song will be played.We will try again for the third time and the third song will be played. *
 
 # Additional Demos
 [Add any extra demo materials/links]
