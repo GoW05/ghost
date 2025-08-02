@@ -13,13 +13,13 @@
 - Member 2: [A J Gowri] - [LBSITW]
 
 ### Project Description
-[Boo-boo is a web-based quiz that determines if a user is a ghost. The app provides a single-page experience, dynamically displaying results and playing spooky sounds based on the user's answers. It's built with HTML5, CSS3, and JavaScript for a responsive and interactive design. ]
+[Boo-Boo is a web-based quiz that determines if a user is a ghost. The app provides a single-page experience, dynamically displaying results and playing spooky sounds based on the user's answers. It's built with HTML5, CSS3, and JavaScript for a responsive and interactive design. ]
 
 ### The Problem (that doesn't exist)
 [The project solves the absurdly pressing issue of spectral identity crisis. It helps individuals determine if they are simply cold or if they've genuinely transitioned into a ghost, allowing them to proceed with their haunting duties with newfound clarity.]
 
 ### The Solution (that nobody asked for)
-["Boo-boo" is a fun online quiz that asks you spooky questions to find out if you're a ghost. When you finish, it instantly shows you your result with eerie sounds and visuals.]
+["Boo-Boo" is a fun online quiz that asks you spooky questions to find out if you're a ghost. When you finish, it instantly shows you your result with eerie sounds and visuals.]
 
 ## Technical Details
 ### Technologies/Components Used
@@ -52,14 +52,14 @@ JavaScript (script.js): The core functionality of the quiz is managed by a singl
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](<img width="1889" height="910" alt="first" src="https://github.com/user-attachments/assets/5fd320a3-8b11-4aa9-8f87-7fb869766259" />)
+*The first image shows the four questioms of the quiz*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](<img width="1872" height="802" alt="middle" src="https://github.com/user-attachments/assets/5d0997ce-2685-44b2-a963-7a89fb543902" />)
+*The second image shows the remaining 2 questions*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](<img width="1914" height="906" alt="last" src="https://github.com/user-attachments/assets/be94f8fb-4a5e-4448-bbe9-81dccc3519b5" />)
+*The third image shows the last output*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -86,16 +86,19 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[(https://github.com/user-attachments/assets/b8fe2d35-c00d-4df5-900b-9092a5b84116)]
+*The videp demonstrates the working of the website.First we are filling all the fields and submit it, we are redirected to output "You are a ghost" where our 1st song sppoky1 will played, Next we wii try again and when reaching You are a ghost,the second song will be played.We will try again for the third time and the third song will be played. *
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [A J GOWRI]: [UI/UX Design Input, Visual Design Elements(CSS), Content implementation, Performance optimization]
+- [POORNA PRAKASH]: [Front-End Structure(HTML/JS),Project Coordination, Testing and review]
+
+
+
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
